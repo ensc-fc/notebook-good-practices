@@ -2,7 +2,7 @@
 
 Demo project for applying good practices to Jupyter notebooks.
 
-[Initial code](v0-initial-code/) is lacking in many ways. A series of refactoring steps can turn it into a well organized and reusable project.
+Initial code is lacking in many ways. A series of refactoring steps can turn it into a well organized and reusable project.
 
 ## Refactoring steps
 
